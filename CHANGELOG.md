@@ -4,7 +4,7 @@ All notable changes to the "vscode-extension-collection-birobirobiro" extension 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1] - 24-08-2023
 
 - Initial release
 
