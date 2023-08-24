@@ -1,0 +1,39 @@
+{
+  "name": "vscode-extension-collection-birobirobiro",
+  "displayName": "vscode-extension-collection-birobirobiro",
+  "description": "Extension Collection by @birobirobiro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "Catppuccin.catppuccin-vsc",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "figma.figma-vscode-extension",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "miguelsolorio.fluent-icons",
+    "mikestead.dotenv",
+    "ms-vscode.live-server",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "qwtel.sqlite-viewer",
+    "rangav.vscode-thunder-client",
+    "ritwickdey.LiveServer",
+    "SimonSiefke.svg-preview",
+    "styled-components.vscode-styled-components",
+    "thang-nm.catppuccin-perfect-icons",
+    "WakaTime.vscode-wakatime",
+    "WallabyJs.console-ninja",
+    "withfig.fig",
+    "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
