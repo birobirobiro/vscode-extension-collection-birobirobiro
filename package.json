@@ -3,6 +3,7 @@
   "displayName": "vscode-extension-collection-birobirobiro",
   "description": "Extension Collection by @birobirobiro",
   "version": "0.0.1",
+  "publisher": "birobirobiro",
   "engines": {
     "vscode": "^1.81.0"
   },
