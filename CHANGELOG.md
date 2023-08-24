@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2] - 24-08-2023
 
 - Add icon
+
+## [0.0.3] - 24-08-2023
+
+- Update Display Name and Description

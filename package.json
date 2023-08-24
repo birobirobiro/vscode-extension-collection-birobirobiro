@@ -1,8 +1,8 @@
 {
   "name": "vscode-extension-collection-birobirobiro",
-  "displayName": "vscode-extension-collection-birobirobiro",
-  "description": "Extension Collection by @birobirobiro",
-  "version": "0.0.2",
+  "displayName": "Extension Collection Pack by @birobirobiro",
+  "description": "Extension Collection Pack by @birobirobiro",
+  "version": "0.0.3",
   "publisher": "birobirobiro",
   "engines": {
     "vscode": "^1.81.0"
