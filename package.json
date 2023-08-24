@@ -2,11 +2,12 @@
   "name": "vscode-extension-collection-birobirobiro",
   "displayName": "vscode-extension-collection-birobirobiro",
   "description": "Extension Collection by @birobirobiro",
-  "version": "0.0.1",
-  "publisher": "extension-collection-birobirobiro",
+  "version": "0.0.2",
+  "publisher": "birobirobiro",
   "engines": {
     "vscode": "^1.81.0"
   },
+  "icon": "assets/images/logo-white.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/birobirobiro/vscode-extension-collection-birobirobiro"
