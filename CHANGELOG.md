@@ -15,3 +15,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3] - 24-08-2023
 
 - Update Display Name and Description
+
+## [0.0.4] - 24-08-2023
+
+- Update README
+
+## [0.0.5] - 30-08-2023
+
+- Update Display Name and Description

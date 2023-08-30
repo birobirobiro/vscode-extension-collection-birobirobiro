@@ -2,7 +2,7 @@
   "name": "vscode-extension-collection-birobirobiro",
   "displayName": "Extension Collection Pack by @birobirobiro",
   "description": "Extension Collection Pack by @birobirobiro",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "birobirobiro",
   "engines": {
     "vscode": "^1.81.0"
@@ -19,12 +19,11 @@
     "bradlc.vscode-tailwindcss",
     "Catppuccin.catppuccin-vsc",
     "christian-kohler.path-intellisense",
+    "Codeium.codeium",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "figma.figma-vscode-extension",
-    "GitHub.copilot",
-    "GitHub.copilot-chat",
     "miguelsolorio.fluent-icons",
     "mikestead.dotenv",
     "ms-vscode.live-server",
