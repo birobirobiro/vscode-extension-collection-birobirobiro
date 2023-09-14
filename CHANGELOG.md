@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.6] - 14-09-2023
 
 - Update Theme, Icons and add new REST Client extension
+
+## [0.0.7] - 14-09-2023
+
+- Update README
