@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.5] - 30-08-2023
 
 - Update Display Name and Description
+
+## [0.0.6] - 14-09-2023
+
+- Update Theme, Icons and add new REST Client extension
